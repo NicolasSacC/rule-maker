@@ -1,0 +1,11 @@
+{
+    "name": "asteroidsnowsuit/rule-maker",
+    "authors": [
+        {
+            "name": "AsteroidSnowsuit",
+            "email": "nicolas.sc@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
